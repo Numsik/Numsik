@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Numsik
 - 👀 I’m interested in gym,learning coding
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
